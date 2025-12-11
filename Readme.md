@@ -1,7 +1,5 @@
 # 👋 สวัสดี! ฉัน Phanuwat Khamtha
 
-## 🚀 **Full Stack Developer | Tech Enthusiast | Problem Solver**
-
 ### 📌 **เกี่ยวกับฉัน**
 - 🌱 **กำลังศึกษา:** Mahasarakham University Thailand
 - 🎯 **ความสนใจ:** Web Development, Cloud Computing, AI/ML
